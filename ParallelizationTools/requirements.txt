@@ -1,0 +1,11 @@
+python==3.11
+notebook
+dask
+numpy
+rasterio
+rioxarray
+dask[distributed]
+folium
+matplotlib
+bokeh==3.1.0
+graphviz
